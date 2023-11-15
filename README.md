@@ -1,2 +1,4 @@
 # Predict Student Performance from Game Play
 This repo has been created based on Kaggle Competition on Predict Student Performance from Game Play.
+### Introduction
+#### This report presents a comparative analysis of various classification models - Support Vector Machines (SVM), XGBoost, Decision Trees, and Random Forests - applied to game logs from the Wisconsin Center for Educational Research's Field Day Lab. The dataset used in this analysis is sourced from the "Predict Student Performance From Game Play" Kaggle competition. Field Day Lab is a publicly funded research facility that develops educational games across diverse topics and age groups, utilizing the collected game data to gain insights into the learning process. The accessibility of Field Day Lab's games reflects the company's commitment to providing free and open access to educational resources for all.
